@@ -17,4 +17,5 @@ plt.scatter(x[:,0],x[:,1],c=labels,cmap='viridis',s=30,alpha=0.6)
 plt.scatter(centers[:,0],centers[:,1],c='red',s=200,marker='X',label='Centroids')
 plt.title("K-means Clustering(k=3)")
 plt.legend()
+
 plt.show()
