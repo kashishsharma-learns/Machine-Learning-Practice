@@ -25,4 +25,5 @@ plt.xlabel("Petal Width(cm)")
 plt.ylabel("virginica (1=yes,0=no)")
 plt.title("Logistic Regression on Iris Petal Width")
 plt.legend()
+
 plt.show()
