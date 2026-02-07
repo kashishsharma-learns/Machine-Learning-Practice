@@ -21,4 +21,5 @@ plt.scatter(x[:,0],x[:,1],c=y,cmap='viridis')
 plt.xlabel("Sepal length")
 plt.ylabel("Sepal width")
 plt.title("SVM on iris(linear kernel)")
+
 plt.show()
